@@ -1,0 +1,27 @@
+Homework:
+Besides the tests please finish the tutorials on https://www.learn-php.org/
+
+You can be stuck on some places, but we covered most of it in a lectures. Besides learning is part of you task. If we have not covered it in a lecture it does not mean we will have time to do it and there will be always something you will need to learn without a help.
+
+If you are not able to finish these tutorials please send questions on the issue you are stuck. Stuck with one of the exersize write down the problem and move to other one.
+
+For the tutorials you should complete them till Friday.
+
+Complete working solution for each mini tutorial should be committed to your git repository in a separate directory. If not able to use the git repository yet, just send solutions in separate files.
+
+The list of full tutorials:
+-Hello, World!
+-Variables and Types
+-Simple arrays
+-Arrays with keys
+-Multidimensional arrays
+-Strings
+-For loops
+-While loops
+-Functions
+-Objects
+-Exceptions
+
+So file naming should be in a for like "002_variables_and_types.php", "003_simple_arrays.php",...
+Example of the homework part of the homework completed:
+https://i.imgur.com/Qh45vJR.png (edited) 
